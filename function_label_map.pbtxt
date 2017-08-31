@@ -1,0 +1,60 @@
+item {
+  id: 1
+  name: 'Spherical grasp to open.'
+}
+
+item {
+  id: 2
+  name: 'Wrap grasp to open.'
+}
+
+item {
+  id: 3
+  name: 'Turn on/off fire.'
+}
+
+item {
+  id: 4
+  name: 'Sit.'
+}
+
+item {
+  id: 5
+  name: 'Turn on/off water.'
+}
+
+item {
+  id: 6
+  name: 'Cylindrical grasp to move.'
+}
+
+item {
+  id: 7
+  name: 'Two hand raise.'
+}
+
+item {
+  id: 8
+  name: 'Pinch grasp to move.'
+}
+
+item {
+  id: 9
+  name: 'Turn on/off electricity.'
+}
+
+item {
+  id: 10
+  name: 'Hook grasp to move.'
+}
+
+item {
+  id: 11
+  name: 'Manipulate elongated tools.'
+}
+
+item {
+  id: 12
+  name: 'Background.'
+}
+
